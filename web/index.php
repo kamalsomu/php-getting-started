@@ -1,5 +1,6 @@
 <?php
 
+/*
 require('../vendor/autoload.php');
 
 $app = new Silex\Application();
@@ -23,3 +24,11 @@ $app->get('/', function() use($app) {
 });
 
 $app->run();
+*/
+
+echo "hello world";
+?>
+
+<form action="test.php">
+<input type="submit"/>
+</form>
